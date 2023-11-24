@@ -23,7 +23,7 @@ const testimonials = [
 			"This app has changed my life, cannot imagine working without it!",
 	},
 	{
-		name: "Mira",
+		name: "Devesh",
 		avatar: "M",
 		title: "CFO",
 		description:
